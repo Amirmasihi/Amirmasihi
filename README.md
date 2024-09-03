@@ -1,6 +1,6 @@
 
 <h1>
-  My Skills:
+  💻 Tech Stack:
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
