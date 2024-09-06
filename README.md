@@ -10,7 +10,4 @@
 
 ![github-contribution-grid-snake-dark-1](https://github.com/user-attachments/assets/ec799a2c-0954-4b63-869e-91135eea545b)
 
-*{
- Width:200px;
- Height:200px;
-} 
+
