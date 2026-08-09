@@ -1,0 +1,9 @@
+html {
+  background: linear-gradient(to right, #2b2b2b, #111111, #1c1c1c);
+  color: #ffffff;
+}
+
+::selection {
+  background-color: #00ff9d;
+  color: #000000;
+}
