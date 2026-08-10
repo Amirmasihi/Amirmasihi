@@ -29,7 +29,7 @@ const About = () => {
       <p className="text-gray-300 mx-14 text-lg motion-preset-slide-right motion-duration-2000">
         I'm Amir Masihi, a front-end developer. My expertise is turning designs
         into clean, fast, and responsive code using React and Tailwind CSS. My
-        goal is to build a practical and beautiful experience for users.
+        goal is to build a practical and beautiful experience for users..
       </p>
     </>
   );
